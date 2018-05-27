@@ -2,6 +2,7 @@
 .gradle/
 .idea/
 build/
+reports/
 
 # Cache files
 *.dat2
